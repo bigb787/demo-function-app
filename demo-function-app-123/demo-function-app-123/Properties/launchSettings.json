@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "demo_function_app_123": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7195",
+      "launchBrowser": false
+    }
+  }
+}
